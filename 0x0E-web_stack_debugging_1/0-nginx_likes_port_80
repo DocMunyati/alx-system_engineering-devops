@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-# This Bash script installs Nginx, updates its configuration to listen on port 80,
-# and starts the Nginx service.
+# Script: fix_nginx.sh
+# Description: This Bash script installs Nginx, updates its configuration to listen on port 80,
+#              and starts the Nginx service.
 
 # Install Nginx
 apt-get update
